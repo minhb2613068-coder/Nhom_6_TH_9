@@ -29,8 +29,6 @@ Nhiệm vụ 4: Thiết kế Infographic "Sống lành mạnh trong kỷ nguyên
 Nội dung chính: 5 trụ cột cân bằng (Quản lý thời gian, Chăm sóc cơ thể, Thói quen ngủ, Kết nối đời thực, Chăm sóc tinh thần).
 Thông điệp gửi gắm: "Sống khỏe, sống vui từng phút giây".
 
-📌 BÀI BÁO CÁO TỔNG HỢP (SUMMARY)
-
 MỤC TIÊU
 
 Giúp sinh viên nhận thức rõ ràng về hiện trạng sử dụng thiết bị số của bản thân, từ đó đề ra giải pháp "Digital Detox" và tuyên truyền lối sống lành mạnh trong kỷ nguyên công nghệ.
